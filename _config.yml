@@ -21,7 +21,7 @@
 title: Gym Routine Tracker
 email: gym_routine_tracker@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A minimalist wrist-based gym workout tracker
+  Copyright 2022 OpenAlloc LLC
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "gym-routine-tracker.github.io"
 url: "https://gym-routine-tracker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
