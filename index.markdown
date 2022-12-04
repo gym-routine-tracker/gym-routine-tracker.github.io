@@ -44,12 +44,12 @@ To any Apple product managers who like this app, please consider Sherlocking it!
 
 The Gym Routine Tracker app is relatively simple in layout and usage, but there are subtle features that may not be obvious.
 
-The [Tutorial](tutorial.html) steps through the layout and features of app.
+The [Tutorial](/tutorial/) steps through the layout and features of app.
 
 ## See Also
 
-* [Terms](terms.html) - Gym Routine Tracker Terms & Conditions
-* [Privacy](privacy.html) - Gym Routine Tracker Privacy Policy
+* [Terms](/terms/) - Gym Routine Tracker Terms & Conditions
+* [Privacy](/privacy/) - Gym Routine Tracker Privacy Policy
 
 Apps by the same author:
 
