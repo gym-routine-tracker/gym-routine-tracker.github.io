@@ -7,6 +7,10 @@ layout: home
 
 _A minimalist wrist-based gym workout tracker_
 
+## Download
+
+Now available as a free download from the WatchOS App Store [here](https://apps.apple.com/us/app/gym-routine-tracker/id6444747204)
+
 ## Features
 
 - Independent WatchOS app, not requiring companion iOS app. Leave your iPhone at home!
