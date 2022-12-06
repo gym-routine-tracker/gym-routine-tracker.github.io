@@ -48,6 +48,8 @@ The [Tutorial](/tutorial/) steps through the layout and features of app.
 
 ## See Also
 
+* [Source Code Repository](https://github.com/gym-routine-tracker/Gym-Routine-Tracker-Watch-App) - with Mozilla Public License 2.0
+
 * [Terms](/terms/) - Gym Routine Tracker Terms & Conditions
 * [Privacy](/privacy/) - Gym Routine Tracker Privacy Policy
 

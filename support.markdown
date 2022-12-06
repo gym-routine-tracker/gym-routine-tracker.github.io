@@ -8,4 +8,6 @@ permalink: /support/
 
 If you have any questions, contact via email at gym\_routine\_tracker /at/ outlook.com
 
-Soon issues can be reported at the github project site, once it is established in the coming days.
+Issues can be reported (publicly) at the [github project site](https://github.com/gym-routine-tracker/Gym-Routine-Tracker-Watch-App).
+
+
