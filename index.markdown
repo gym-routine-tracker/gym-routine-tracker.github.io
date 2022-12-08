@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![GRT On Wrist](/assets/images/grt-on-wrist.jpeg)
+<img src="/assets/images/grt-on-wrist.jpeg" alt="GRT on Wrist" width="480" height="596"/>
 
 _A minimalist wrist-based gym workout tracker_
 
