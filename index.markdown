@@ -2,8 +2,7 @@
 layout: home
 ---
 
-![Main Sample](/assets/images/routine-list-display.png)
-![Exercise Run Sample](/assets/images/exercise-run-display.png)
+![GRT On Wrist](/assets/images/grt-on-wrist.jpeg)
 
 _A minimalist wrist-based gym workout tracker_
 
@@ -14,7 +13,7 @@ Now available as a free download from the WatchOS App Store [HERE](https://apps.
 ## Features
 
 - Independent WatchOS app, not requiring companion iOS app. Leave your iPhone at home!
-- LARGE text in RUN mode, for those with presbyopia. Leave your cheaters in your locker!
+- LARGE text in RUN mode, for those with presbyopia. Leave your reading glasses in your locker!
 - Prioritizes convenience, quick interactions, and the basic needs of the recreational fitness user.
 
 ### Quick and easy setup
