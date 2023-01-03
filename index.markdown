@@ -11,7 +11,9 @@ _A minimalist wrist-based gym workout tracker_
 
 ## Download
 
-Now available as a free download from the WatchOS App Store [HERE](https://apps.apple.com/us/app/gym-routine-tracker/id6444747204)
+Available as a free download from the WatchOS App Store [HERE](https://apps.apple.com/us/app/gym-routine-tracker/id6444747204)
+
+iOS version for iPhone and iPad coming soon!
 
 ## Features
 
@@ -51,7 +53,9 @@ Now available as a free download from the WatchOS App Store [HERE](https://apps.
 
 ## Requirements
 
-Currently requires WatchOS 9.1 or later; iOS 16.1 or later.
+For watchOS version, version 9.1 or later
+
+For iOS version, version 16.1 or later
 
 ## Tutorial
 
@@ -61,10 +65,10 @@ The [Tutorial](/tutorial/) steps through the layout and features of app.
 
 ## Source code
 
-* [Gym Routine Tracker Watch App](https://gym-routine-tracker.github.io/Gym-Routine-Tracker-Watch-App/index.html) - watchOS implementation
-* [Gym Routine Tracker Plus App](https://gym-routine-tracker.github.io/Gym-Routine-Tracker-Plus-App/index.html) - iOS implementation
-* [GroutUI](https://gym-routine-tracker.github.io/GroutUI/index.html) - shared layer for user interface
-* [GroutLib](https://gym-routine-tracker.github.io/GroutUI/index.html) - shared layer for business logic and data layer
+* [Gym Routine Tracker Watch App](https://github.com/Gym-Routine-Tracker-Watch-App/index.html) - watchOS implementation
+* [Gym Routine Tracker Plus App](https://github.com/Gym-Routine-Tracker-Plus-App/index.html) - iOS implementation
+* [GroutUI](https://github.com/GroutUI/index.html) - shared layer for user interface
+* [GroutLib](https://github.com/GroutUI/index.html) - shared layer for business logic and data layer
 
 To any Apple product managers who like this app, please consider Sherlocking it!
 
