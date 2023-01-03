@@ -2,7 +2,9 @@
 layout: home
 ---
 
-<img src="/assets/images/grt-on-wrist.jpeg" alt="GRT on Wrist" width="480" height="596"/>
+<div style="width: 250px; height: 298px;">
+<img src="/assets/images/grt-on-wrist.png" alt="grt-on-wrist" style="width: inherit" />
+</div>
 
 _A minimalist wrist-based gym workout tracker_
 
@@ -12,9 +14,18 @@ Now available as a free download from the WatchOS App Store [HERE](https://apps.
 
 ## Features
 
-- Independent WatchOS app, not requiring companion iOS app. Leave your iPhone at home!
-- LARGE text in RUN mode, for those with presbyopia. Leave your reading glasses in your locker!
+- Simple model of user-defined routines and their exercises.
+- LARGE text in RUN mode, for the farsighted. Leave your cheaters in your locker!
 - Prioritizes convenience, quick interactions, and the basic needs of the recreational fitness user.
+
+### iCloud Sync
+
+- Your data automatically syncs with your private iCloud account when a network connection is available.
+- That synced data available to the _Gym Routine Tracker_ app running on your other devices.
+
+### Watch
+
+- Independent WatchOS app, not requiring companion iOS app. Leave your iPhone at home!
 
 ### Quick and easy setup
 
