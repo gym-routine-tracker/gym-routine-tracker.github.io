@@ -11,15 +11,17 @@ _A minimalist wrist-based gym workout tracker_
 
 ## Download
 
-Available as a free download from the WatchOS App Store [HERE](https://apps.apple.com/us/app/gym-routine-tracker/id6444747204)
+Now available as a FREE download from 
 
-iOS version for iPhone and iPad coming soon!
+- [Watch App Store](https://apps.apple.com/us/app/gym-routine-tracker/id6444747204)
+- [iPhone/iPad App Store](https://apps.apple.com/us/app/gym-routine-tracker/id1662243916)
 
 ## Features
 
 - Simple model of user-defined routines and their exercises.
-- LARGE text in RUN mode, for the farsighted. Leave your cheaters in your locker!
-- Prioritizes convenience, quick interactions, and the basic needs of the recreational fitness user.
+- LARGE text in RUN mode, for the farsighted. Leave your glasses in your locker!
+
+GRT prioritizes convenience, quick interactions, and the basic needs of the recreational fitness user.
 
 ### iCloud Sync
 
