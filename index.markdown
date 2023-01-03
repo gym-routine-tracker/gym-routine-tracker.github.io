@@ -3,7 +3,7 @@ layout: home
 ---
 
 <div style="width: 250px; height: 298px;">
-<img src="/assets/images/grt-on-wrist.png" alt="grt-on-wrist" style="width: inherit" />
+<img src="/assets/images/grt-on-wrist.jpeg" alt="grt-on-wrist" style="width: inherit" />
 </div>
 
 _A minimalist wrist-based gym workout tracker_
@@ -50,9 +50,7 @@ Now available as a free download from the WatchOS App Store [HERE](https://apps.
 
 ## Requirements
 
-Requires WatchOS 9.1 or later.
-
-To any Apple product managers who like this app, please consider Sherlocking it!
+Currently requires WatchOS 9.1 or later; iOS 16.1 or later.
 
 ## Tutorial
 
@@ -60,14 +58,21 @@ The Gym Routine Tracker app is relatively simple in layout and usage, but there 
 
 The [Tutorial](/tutorial/) steps through the layout and features of app.
 
-## See Also
+## Source code
 
-* [Source Code Repository](https://github.com/gym-routine-tracker/Gym-Routine-Tracker-Watch-App) - with Mozilla Public License 2.0
+* [Gym Routine Tracker Watch App](https://gym-routine-tracker.github.io/Gym-Routine-Tracker-Watch-App/index.html) - watchOS implementation
+* [Gym Routine Tracker Plus App](https://gym-routine-tracker.github.io/Gym-Routine-Tracker-Plus-App/index.html) - iOS implementation
+* [GroutUI](https://gym-routine-tracker.github.io/GroutUI/index.html) - shared layer for user interface
+* [GroutLib](https://gym-routine-tracker.github.io/GroutUI/index.html) - shared layer for business logic and data layer
+
+To any Apple product managers who like this app, please consider Sherlocking it!
+
+## See Also
 
 * [Terms](/terms/) - Gym Routine Tracker Terms & Conditions
 * [Privacy](/privacy/) - Gym Routine Tracker Privacy Policy
 
-Apps by the same author:
+macOS apps by the same author:
 
 * [FlowAllocator](https://openalloc.github.io/FlowAllocator/index.html) - portfolio rebalancing tool for macOS
 * [FlowWorth](https://openalloc.github.io/FlowWorth/index.html) - portfolio valuation and tracking tool for macOS
