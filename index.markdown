@@ -65,10 +65,10 @@ The [Tutorial](/tutorial/) steps through the layout and features of app.
 
 ## Source code
 
-* [Gym Routine Tracker Watch App](https://github.com/Gym-Routine-Tracker-Watch-App/index.html) - watchOS implementation
-* [Gym Routine Tracker Plus App](https://github.com/Gym-Routine-Tracker-Plus-App/index.html) - iOS implementation
-* [GroutUI](https://github.com/GroutUI/index.html) - shared layer for user interface
-* [GroutLib](https://github.com/GroutUI/index.html) - shared layer for business logic and data layer
+* [Gym Routine Tracker Watch App](https://github.com/gym-routine-tracker/Gym-Routine-Tracker-Watch-App) - watchOS implementation
+* [Gym Routine Tracker Plus App](https://github.com/gym-routine-tracker/Gym-Routine-Tracker-Plus-App) - iOS implementation
+* [GroutUI](https://github.com/gym-routine-tracker/GroutUI/) - shared layer for user interface
+* [GroutLib](https://github.com/gym-routine-tracker/GroutLib/) - shared layer for business logic and data layer
 
 To any Apple product managers who like this app, please consider Sherlocking it!
 
