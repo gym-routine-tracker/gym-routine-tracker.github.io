@@ -36,17 +36,32 @@
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <div class="home"><p><img src="/assets/images/routine-list-display.png" alt="Main Sample" />
-<img src="/assets/images/exercise-run-display.png" alt="Exercise Run Sample" /></p>
+        <div class="home">
+          <div style="width: 480px; height: 596px;">
+          <img src="/assets/images/grt-on-wrist.png" alt="grt-on-wrist" style="width: inherit" />
+          </div>
 
-<p><em>A minimalist wrist-based gym workout tracker</em></p>
+<p><em>A minimalist gym workout tracker for Apple Watch, iPhone, and iPad</em></p>
 
 <h2 id="features">Features</h2>
 
 <ul>
-  <li>Independent WatchOS app, not requiring companion iOS app. Leave your iPhone at home!</li>
-  <li>LARGE text in RUN mode, for those with presbyopia. Leave your cheaters in your locker!</li>
+  <li>Simple data model of user-defined routines and their exercises.</li>
+  <li>LARGE text in RUN mode, for the farsighted. Leave your cheaters in your locker!</li>
   <li>Prioritizes convenience, quick interactions, and the basic needs of the recreational fitness user.</li>
+</ul>
+
+<h3 id="icloud_features">iCloud</h3>
+
+<ul>
+  <li>Your data automatically syncs with your private iCloud account when a network connection is available.</li>
+  <li>That synced data available to the _Gym Routine Tracker_ app running on your other devices.</li>
+</ul>
+
+<h3 id="watch_features">Apple Watch</h3>
+
+<ul>
+  <li>Independent WatchOS app, not requiring companion iOS app. Leave your iPhone at home!</li>
 </ul>
 
 <h3 id="quick-and-easy-setup">Quick and easy setup</h3>
@@ -67,20 +82,15 @@
   <li>If needed, add new exercises during a routine.</li>
 </ul>
 
-<h3 id="app-features">App features</h3>
+<h3 id="availablility">Availability</h3>
 
-<ul>
-  <li>Simple data model of user-defined routines and their exercises.</li>
-  <li>Your data syncs with CloudKit when a network connection is available.</li>
+  <li>Available for watchOS and iOS, running on the Apple Watch, iPhone, and iPad.</li>
+  <li>Apps available as free downloads in the iOS and watchOS App Stores.</li>
   <li>Fully open source where code is licensed with Mozilla Public License 2.0.</li>
-  <li>App available as a free download in the WatchOS App Store.</li>
-</ul>
 
 <h2 id="requirements">Requirements</h2>
 
-<p>Requires WatchOS 9.1 or later.</p>
-
-<p>To any Apple product managers who like this app, please consider Sherlocking it!</p>
+<p>Currently requires WatchOS 9.1 or later; iOS 16.1 or later.</p>
 
 <h2 id="tutorial">Tutorial</h2>
 
@@ -90,12 +100,23 @@
 
 <h2 id="see-also">See Also</h2>
 
+<p><i>To any Apple product managers who like this app, please consider Sherlocking it!</i></p>
+
 <ul>
   <li><a href="/terms/">Terms</a> - Gym Routine Tracker Terms &amp; Conditions</li>
   <li><a href="/privacy/">Privacy</a> - Gym Routine Tracker Privacy Policy</li>
 </ul>
 
-<p>Apps by the same author:</p>
+<p>Source Code:</p>
+
+<ul>
+  <li><a href="https://gym-routine-tracker.github.io/Gym-Routine-Tracker-Watch-App/index.html">Gym Routine Tracker Watch App</a> - Xcode project for watchOS implementation</li>
+  <li><a href="https://gym-routine-tracker.github.io/Gym-Routine-Tracker-Plus-App/index.html">Gym Routine Tracker Plus App</a> - Xcode project for iOS implementation</li>
+  <li><a href="https://gym-routine-tracker.github.io/GroutUI/index.html">GroutUI</a> - shared layer for user interface</li>
+  <li><a href="https://gym-routine-tracker.github.io/GroutLib/index.html">GroutLib</a> - shared layer for business logic and data model</li>
+</ul>
+
+<p>macOS apps by the same author:</p>
 
 <ul>
   <li><a href="https://openalloc.github.io/FlowAllocator/index.html">FlowAllocator</a> - portfolio rebalancing tool for macOS</li>
