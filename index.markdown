@@ -5,6 +5,7 @@ layout: home
 <div style="width: 250px; height: 298px;">
 <img src="/assets/images/grt-on-wrist.jpeg" alt="grt-on-wrist" style="width: inherit" />
 </div>
+<p/>
 
 _A minimalist wrist-based gym workout tracker_
 
