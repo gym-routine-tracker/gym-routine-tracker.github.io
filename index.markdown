@@ -7,51 +7,62 @@ layout: home
 </div>
 <p/>
 
-_A minimalist wrist-based gym workout tracker_
+_A minimalist gym workout tracker, for the Apple Watch, iPhone, and iPad_
 
 ## Download
 
-Now available as a FREE download from 
+Available as FREE downloads in the App Store:
 
-- [Watch App Store](https://apps.apple.com/us/app/gym-routine-tracker/id6444747204)
-- [iPhone/iPad App Store](https://apps.apple.com/us/app/gym-routine-tracker/id1662243916)
+- [GRT for Apple Watch](https://apps.apple.com/us/app/gym-routine-tracker/id6444747204)
+- [GRT+ for iPhone/iPad](https://apps.apple.com/us/app/gym-routine-tracker/id1662243916)
 
 ## Features
 
+- _NEW in 1.5_ Logs routine/exercise completions, where history can be reviewed on your iPhone/iPad.
+
 - Simple model of user-defined routines and their exercises.
 - LARGE text in RUN mode, for the farsighted. Leave your glasses in your locker!
+- Simple data model of user-defined routines and their exercises.
+- Your data syncs with your private iCloud account when a network connection is available.
+- Fully open source where code is licensed with Mozilla Public License 2.0.
 
 GRT prioritizes convenience, quick interactions, and the basic needs of the recreational fitness user.
+
+### Quick and easy setup
+
+- Add routines and exercises in the app itself, with convenient preset names available.
+- For each exercise optionally specify seat settings and set/rep counts. 
+- For the exercise's intensity (usually weight lifted), optionally specify the units and the step.
+
+### When ‘running’ a routine
+
+- Convenient one-tap button to indicate that an exercise is complete.
+- Optional long-press to automatically step up (advance) to next higher intensity in future.
+- Convenient skip to the next incomplete exercise, in case a machine isn’t immediately available.
+- Control screen showing the time elapsed since starting the routine.
+
+### History features (NEW)
+
+- Completion of routine/exercise is automatically logged to your private iCloud account.
+- Logging can be disabled in settings.
+- For the WatchOS app, recent history will be stored locally for up to 1 year. Periodically run iOS app for long-term storage and review.
+- History can be reviewed on the iOS app for the iPhone/iPad.
 
 ### iCloud Sync
 
 - Your data automatically syncs with your private iCloud account when a network connection is available.
 - That synced data available to the _Gym Routine Tracker_ app running on your other devices.
 
-### Watch
+### Watch App (WatchOS)
 
-- Independent WatchOS app, not requiring companion iOS app. Leave your iPhone at home!
+- The WatchOS app is independent, not requiring companion iOS app. Leave your iPhone at home!
 
-### Quick and easy setup
+### iPhone/iPad App (iOS)
 
-- Add routines and exercises in the app itself, with convenient preset names available.
-- For each exercise optionally specify seat settings and set/rep counts. 
-- For the exercise's intensity (usually weight lifted), optionally specify the step and the units.
+- Similar to the Watch App, but adapted for iOS conventions.
+- Includes long-term storage of historical completions of routines/exercises.
+- Review history of routines/exercises.
 
-### When ‘running’ a routine
-
-- Convenient one-tap button to indicate that an exercise is complete, with automatic jump to next incomplete exercise.
-- Optional long-press to automatically step up (advance) to next higher intensity in future.
-- Convenient skip to the next incomplete exercise, in case a machine isn’t immediately available.
-- Control screen showing the time elapsed since starting the routine.
-- If needed, add new exercises during a routine.
-
-### App features 
-
-- Simple data model of user-defined routines and their exercises.
-- Your data syncs with CloudKit when a network connection is available.
-- Fully open source where code is licensed with Mozilla Public License 2.0.
-- App available as a free download in the WatchOS App Store. 
 
 ## Requirements
 
@@ -67,8 +78,9 @@ The [Tutorial](/tutorial/) steps through the layout and features of app.
 
 ## Source code
 
-* [Gym Routine Tracker Watch App](https://github.com/gym-routine-tracker/Gym-Routine-Tracker-Watch-App) - watchOS implementation
-* [Gym Routine Tracker Plus App](https://github.com/gym-routine-tracker/Gym-Routine-Tracker-Plus-App) - iOS implementation
+* [GRT Website](https://gym-routine-tracker.github.io) - Website for GRT
+* [GRT for Apple Watch Source](https://github.com/gym-routine-tracker/Gym-Routine-Tracker-Watch-App) - watchOS implementation
+* [GRT+ for iPhone/iPad Source](https://github.com/gym-routine-tracker/Gym-Routine-Tracker-Plus-App) - iOS implementation
 * [GroutUI](https://github.com/gym-routine-tracker/GroutUI/) - shared layer for user interface
 * [GroutLib](https://github.com/gym-routine-tracker/GroutLib/) - shared layer for business logic and data layer
 
